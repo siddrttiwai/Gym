@@ -1,0 +1,28 @@
+.one{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: bisque;
+}
+.one img{
+    max-width: 500px;
+    max-height: 500px;
+}
+.two{
+        background-image: url(background1.avif);
+        color: whitesmoke;
+        text-align: center;
+        align-content: center;
+
+}
+.three{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.five{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(205, 93, 52);
+}
